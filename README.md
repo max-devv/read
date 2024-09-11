@@ -1,6 +1,6 @@
 
 ## 🌐 My Discord:
-[![Discord Presence](https://lanyard.cnrad.dev/api/233657223190937601)](https://discord.com/users/1195819082885382204)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1195819082885382204)](https://discord.com/users/1195819082885382204)
 # 💻 Tech Stack:
 &nbsp;&nbsp;
 ![img_vscode](./img/vscode.svg)
