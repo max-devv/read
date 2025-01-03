@@ -13,8 +13,6 @@
 &nbsp;&nbsp;
 ![img_php](./img/php.svg)
 &nbsp;&nbsp;
-![img_symfo](./img/symfo.svg)
-&nbsp;&nbsp;
 ![img_mysql](./img/mysql.svg)
 
 # 📊 GitHub Stats:
